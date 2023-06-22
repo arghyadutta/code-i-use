@@ -1,1 +1,1 @@
-Plotting with Matplotlib
+Useful python code snippets
